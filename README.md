@@ -16,6 +16,9 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
+Heart On Your Sleeve | ![Heart On Your Sleeve Badge](/images/heart-on-your-sleeve-default.png) | ? | ?
+Open Sourcerer | ![Open Sourcerer Badge](/images/open-sourcerer-default.png) | ? | ?
+||| <!-- this empty row is intentional to separate -->
 Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request
 Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed an issue or a pull request within 5 min of opening
 Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | Created a repository that has 16 stars
@@ -95,7 +98,7 @@ Arctic Code Vault Contributor | [Live 100 % unlocked sample by @Schweinepriester
 Public Sponsor | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)
 Mars 2020 Contributor | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)
 
-Do you know a user with all Achievements at the same time? Let me know!
+Do you know a user with all Achievements with highest tier at the same time? Let me know!
 
 ### Variants
 
